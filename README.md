@@ -1,5 +1,8 @@
 ﻿Автор работы:
 
+
+![This is an image](https://www.izbrannoe.com/upload/resize_cache/iblock/524/705_391_2/52423d64a4fdb5eeb2c2dc2c70382a6d.jpg)
+
 ученица 11 «Т» класса
 
 ГБОУ Школа №0000 
